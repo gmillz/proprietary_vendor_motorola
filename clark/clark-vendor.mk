@@ -44,5 +44,5 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt multilibs
 PRODUCT_PACKAGES += \
-    libtime_genoff
+    libtime_genoff.so
 
